@@ -1,0 +1,8 @@
+{
+    "osrf/srsim": {
+        "project_file": "data/repositories/osrf/srsim.json",
+        "project_path": "data/repositories/osrf/srsim/",
+        "is_fork": false,
+        "github_repo": "https://github.com/scpeters-test/srsim"
+    }
+}
